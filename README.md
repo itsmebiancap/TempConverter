@@ -1,2 +1,2 @@
 # TempConverter
-Converts Celsius to Farenheit
+Converts Farenheit to Celsius
